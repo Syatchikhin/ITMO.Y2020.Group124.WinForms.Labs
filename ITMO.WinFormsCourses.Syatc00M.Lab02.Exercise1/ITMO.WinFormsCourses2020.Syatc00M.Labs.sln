@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise1.NoName", "ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise1.NoName.csproj", "{E7B6801D-A292-4397-8917-2006C8C55396}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise2.NoName", "..\ITMO.CSCourses2020.Syatc00M.Lab02.Exercise2\ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise2.NoName.csproj", "{1BB5CEE0-391D-4C9F-8BE1-496644FB10EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise4.see Ex 3", "..\ITMO.CSCourses2020.Syatc00M.Lab02.Exercise4\ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise4.see Ex 3.csproj", "{E0A583F8-372F-4FFB-B591-6FD4CFFBF05A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise5.WinContainer", "..\ITMO.CSCourses2020.Syatc00M.Lab02.Exercise5\ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise5.WinContainer.csproj", "{9BA99E9A-9402-4CCF-87B5-CD3AB539AE0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise7.RegistrationForm", "..\ITMO.CSCourses2020.Syatc00M.Lab02.Exercise7\ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise7.RegistrationForm.csproj", "{A33507B6-0573-4517-826C-21E6CB920A84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise8.see ex 7", "..\ITMO.CSCourses2020.Syatc00M.Lab02.Exercise8\ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise8.see ex 7.csproj", "{7177FB32-9332-4D7E-A4BD-5FD5A7D7E22F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise3.MdiApplication", "..\ITMO.CSCourses2020.Syatc00M.Lab02.Exercise3.MDiAplication\ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise3.MdiApplication.csproj", "{A78D9F52-6473-4448-A4DB-598A58A88B14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise6.BiblWorm", "..\ITMO.CSCourses2020.Syatc00M.Lab02.Ex6.BiblWorm\ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise6.BiblWorm.csproj", "{BF0A51D6-8D24-4235-9898-16FBFC47E0A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab03.Exercise1.WinTimer1", "..\ITMO.CSCOurses2020.Syatc0M.Lab03.Exercise1.WinTimer1\ITMO.WinFormsCourses2020.Syatc00M.Lab03.Exercise1.WinTimer1.csproj", "{D3C2870A-F303-49D1-8F45-2A2AA92C4E1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab03.Exersise2.WinTimer2", "..\ITMO.WinForms2020.Syatc00M.Lab03.Exersice2\ITMO.WinFormsCourses2020.Syatc00M.Lab03.Exersise2.WinTimer2.csproj", "{6845EC2A-3D52-46D3-90EE-F7F652AEA73A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab03.Exersise3.WinButNum", "..\ITMO.WinForms2020.Syatc00m.Lab03.Exersise3.WinButNum\ITMO.WinFormsCourses2020.Syatc00M.Lab03.Exersise3.WinButNum.csproj", "{61A7CA3C-DCEA-4E0E-B936-569E4DF4BC1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7B6801D-A292-4397-8917-2006C8C55396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7B6801D-A292-4397-8917-2006C8C55396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7B6801D-A292-4397-8917-2006C8C55396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7B6801D-A292-4397-8917-2006C8C55396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BB5CEE0-391D-4C9F-8BE1-496644FB10EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB5CEE0-391D-4C9F-8BE1-496644FB10EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB5CEE0-391D-4C9F-8BE1-496644FB10EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB5CEE0-391D-4C9F-8BE1-496644FB10EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0A583F8-372F-4FFB-B591-6FD4CFFBF05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A583F8-372F-4FFB-B591-6FD4CFFBF05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A583F8-372F-4FFB-B591-6FD4CFFBF05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A583F8-372F-4FFB-B591-6FD4CFFBF05A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BA99E9A-9402-4CCF-87B5-CD3AB539AE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA99E9A-9402-4CCF-87B5-CD3AB539AE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA99E9A-9402-4CCF-87B5-CD3AB539AE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA99E9A-9402-4CCF-87B5-CD3AB539AE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A33507B6-0573-4517-826C-21E6CB920A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A33507B6-0573-4517-826C-21E6CB920A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A33507B6-0573-4517-826C-21E6CB920A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A33507B6-0573-4517-826C-21E6CB920A84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7177FB32-9332-4D7E-A4BD-5FD5A7D7E22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7177FB32-9332-4D7E-A4BD-5FD5A7D7E22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7177FB32-9332-4D7E-A4BD-5FD5A7D7E22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7177FB32-9332-4D7E-A4BD-5FD5A7D7E22F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A78D9F52-6473-4448-A4DB-598A58A88B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78D9F52-6473-4448-A4DB-598A58A88B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78D9F52-6473-4448-A4DB-598A58A88B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78D9F52-6473-4448-A4DB-598A58A88B14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF0A51D6-8D24-4235-9898-16FBFC47E0A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0A51D6-8D24-4235-9898-16FBFC47E0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF0A51D6-8D24-4235-9898-16FBFC47E0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF0A51D6-8D24-4235-9898-16FBFC47E0A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3C2870A-F303-49D1-8F45-2A2AA92C4E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C2870A-F303-49D1-8F45-2A2AA92C4E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C2870A-F303-49D1-8F45-2A2AA92C4E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C2870A-F303-49D1-8F45-2A2AA92C4E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6845EC2A-3D52-46D3-90EE-F7F652AEA73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6845EC2A-3D52-46D3-90EE-F7F652AEA73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6845EC2A-3D52-46D3-90EE-F7F652AEA73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6845EC2A-3D52-46D3-90EE-F7F652AEA73A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A7CA3C-DCEA-4E0E-B936-569E4DF4BC1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A7CA3C-DCEA-4E0E-B936-569E4DF4BC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A7CA3C-DCEA-4E0E-B936-569E4DF4BC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A7CA3C-DCEA-4E0E-B936-569E4DF4BC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0E8AEE6-1F3E-457C-88A5-41A05D4137FA}
+	EndGlobalSection
+EndGlobal
