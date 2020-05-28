@@ -33,6 +33,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Sy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab03.Exersise3.WinButNum", "ITMO.WinFormsCourses.Syatc00M.Lab03.Exersise3.WinButNum\ITMO.WinFormsCourses2020.Syatc00M.Lab03.Exersise3.WinButNum.csproj", "{61A7CA3C-DCEA-4E0E-B936-569E4DF4BC1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab04.Exercise1.TestStandardDialog", "ITMO.WinFormsCourses.Syatc00M.Lab04.Exercise1\ITMO.WinFormsCourses2020.Syatc00M.Lab04.Exercise1.TestStandardDialog.csproj", "{2779149C-8624-40B8-91C4-108709B05D0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab04.Exercise2.EditPerson", "ITMO.WinFormsCourses.Syatc00M.Lab04.Exercise2\ITMO.WinFormsCourses2020.Syatc00M.Lab04.Exercise2.EditPerson.csproj", "{15F3F240-C59E-4459-8C72-E31B3E3B750B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinForms.Syatc00M.Lab07.Ex1.WinBackGroundWorker", "ITMO.WinForms.Syatc00M.Lab07.Ex1.WinBackGroundWorker\ITMO.WinForms.Syatc00M.Lab07.Ex1.WinBackGroundWorker.csproj", "{0AD0A6E3-7E0F-41A9-B77C-3F078107B73E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +105,18 @@ Global
 		{61A7CA3C-DCEA-4E0E-B936-569E4DF4BC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61A7CA3C-DCEA-4E0E-B936-569E4DF4BC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61A7CA3C-DCEA-4E0E-B936-569E4DF4BC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2779149C-8624-40B8-91C4-108709B05D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2779149C-8624-40B8-91C4-108709B05D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2779149C-8624-40B8-91C4-108709B05D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2779149C-8624-40B8-91C4-108709B05D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F3F240-C59E-4459-8C72-E31B3E3B750B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F3F240-C59E-4459-8C72-E31B3E3B750B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F3F240-C59E-4459-8C72-E31B3E3B750B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F3F240-C59E-4459-8C72-E31B3E3B750B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AD0A6E3-7E0F-41A9-B77C-3F078107B73E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD0A6E3-7E0F-41A9-B77C-3F078107B73E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD0A6E3-7E0F-41A9-B77C-3F078107B73E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD0A6E3-7E0F-41A9-B77C-3F078107B73E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
