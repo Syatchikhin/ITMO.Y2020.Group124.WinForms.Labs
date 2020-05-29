@@ -17,14 +17,27 @@ namespace ITMO.WinFormsCourses.Syatc00M.Lab04.Exercise2
             InitializeComponent();
         }
 
+        List<Person> pers = new List<Person>();
+
         private void button2_Click(object sender, EventArgs e) //add button
         {
+            Person p = new Person(); //p33
             EditPersonForm editForm = new EditPersonForm();
+            //EditPersonForm editForm = new EditPersonForm(p);
             if (editForm.ShowDialog() != DialogResult.OK)
                 return;
             ListViewItem newItem = personsListView.Items.Add(editForm.FirstName);
             newItem.SubItems.Add(editForm.LastName);
             newItem.SubItems.Add(editForm.Age.ToString());
+
+            //EditPersonForm editForm = new EditPersonForm(p);
+            if (editForm.ShowDialog() != DialogResult.OK)
+            return;
+            pers.Add(p);
+
+            personsListView.VirtualListSize = pers.Count;
+            personsListView.Invalidate();
+
         }
 
         private void button1_Click(object sender, EventArgs e) //edit button

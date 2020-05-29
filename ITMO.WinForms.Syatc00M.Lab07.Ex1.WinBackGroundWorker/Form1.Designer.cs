@@ -1,4 +1,7 @@
-﻿namespace ITMO.WinForms.Syatc00M.Lab07.Ex1.WinBackGroundWorker
+﻿using System.Drawing;
+using System.Runtime.InteropServices;// user progressbar
+
+namespace ITMO.WinForms.Syatc00M.Lab07.Ex1.WinBackGroundWorker
 {
     partial class Form1
     {
@@ -33,6 +36,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
+
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
@@ -68,10 +72,14 @@
             // 
             // progressBar1
             // 
+            
+            this.progressBar1.BackColor = System.Drawing.SystemColors.HotTrack;
+            this.progressBar1.ForeColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.progressBar1.Location = new System.Drawing.Point(154, 59);
             this.progressBar1.Name = "progressBar1";
             this.progressBar1.Size = new System.Drawing.Size(250, 24);
             this.progressBar1.TabIndex = 3;
+            ModifyProgressBarColor.SetState(progressBar1, 3); //user progressbar **Note the second parameter in SetState, 1 = normal (green); 2 = error (red); 3 = warning (yellow).
             // 
             // button1
             // 

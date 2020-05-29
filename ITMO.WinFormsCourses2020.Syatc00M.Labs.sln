@@ -3,41 +3,43 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab01.Exercise1", "ITMO.WinFormsCourses.Syatc00M.Lab01.Exercise1\ITMO.WinFormsCourses2020.Syatc00M.Lab01.Exercise1.csproj", "{77C7FE0A-428C-4D37-B67B-487843A43FD1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WinForms.Syatc00M.Lab01.Ex1", "ITMO.WinFormsCourses.Syatc00M.Lab01.Exercise1\ITMO.2020.WinForms.Syatc00M.Lab01.Ex1.csproj", "{77C7FE0A-428C-4D37-B67B-487843A43FD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab01.Exercise2", "ITMO.WinFormsCourses.Syatc00M.Lab01.Exercise2\ITMO.WinFormsCourses2020.Syatc00M.Lab01.Exercise2.csproj", "{0F862F13-A042-4AC5-A588-3874AB0D08A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WinForms.Syatc00M.Lab01.Ex2", "ITMO.WinFormsCourses.Syatc00M.Lab01.Exercise2\ITMO.2020.WinForms.Syatc00M.Lab01.Ex2.csproj", "{0F862F13-A042-4AC5-A588-3874AB0D08A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab01.Exercise3", "ITMO.WinFormsCourses.Syatc00M.Lab01.Exercise3\ITMO.WinFormsCourses2020.Syatc00M.Lab01.Exercise3.csproj", "{2A4F031B-249E-42A3-AA24-760180612E88}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WinForms.Syatc00M.Lab01.Ex3", "ITMO.WinFormsCourses.Syatc00M.Lab01.Exercise3\ITMO.2020.WinForms.Syatc00M.Lab01.Ex3.csproj", "{2A4F031B-249E-42A3-AA24-760180612E88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab01.Exercise4.MdiApplication", "ITMO.WinFormsCourses.Syatc00M.Lab01.Exercise4\ITMO.WinFormsCourses2020.Syatc00M.Lab01.Exercise4.MdiApplication.csproj", "{9FF2B7AE-BB7F-4081-B896-14A1C281741D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WinForms.Syatc00M.Lab01.Ex4.MdiApplication", "ITMO.WinFormsCourses.Syatc00M.Lab01.Exercise4\ITMO.2020.WinForms.Syatc00M.Lab01.Ex4.MdiApplication.csproj", "{9FF2B7AE-BB7F-4081-B896-14A1C281741D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise1.NoName", "ITMO.WinFormsCourses.Syatc00M.Lab02.Exercise1\ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise1.NoName.csproj", "{E7B6801D-A292-4397-8917-2006C8C55396}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WinForms.Syatc00M.Lab02.Ex1.NoName", "ITMO.WinFormsCourses.Syatc00M.Lab02.Exercise1\ITMO.2020.WinForms.Syatc00M.Lab02.Ex1.NoName.csproj", "{E7B6801D-A292-4397-8917-2006C8C55396}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise2.NoName", "ITMO.WinFormsCourses.Syatc00M.Lab02.Exercise2\ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise2.NoName.csproj", "{1BB5CEE0-391D-4C9F-8BE1-496644FB10EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WinForms.Syatc00M.Lab02.Ex2.NoName", "ITMO.WinFormsCourses.Syatc00M.Lab02.Exercise2\ITMO.2020.WinForms.Syatc00M.Lab02.Ex2.NoName.csproj", "{1BB5CEE0-391D-4C9F-8BE1-496644FB10EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise3.MdiApplication", "ITMO.WinFormsCourses.Syatc00M.Lab02.Exercise3.MDiAplication\ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise3.MdiApplication.csproj", "{A78D9F52-6473-4448-A4DB-598A58A88B14}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WinForms.Syatc00M.Lab02.Ex3.MdiApplication", "ITMO.WinFormsCourses.Syatc00M.Lab02.Exercise3.MDiAplication\ITMO.2020.WinForms.Syatc00M.Lab02.Ex3.MdiApplication.csproj", "{A78D9F52-6473-4448-A4DB-598A58A88B14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise4.see Ex 3", "ITMO.WinFormsCourses.Syatc00M.Lab02.Exercise4\ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise4.see Ex 3.csproj", "{E0A583F8-372F-4FFB-B591-6FD4CFFBF05A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WinForms.Syatc00M.Lab02.Ex4.see Ex 3", "ITMO.WinFormsCourses.Syatc00M.Lab02.Exercise4\ITMO.2020.WinForms.Syatc00M.Lab02.Ex4.see Ex 3.csproj", "{E0A583F8-372F-4FFB-B591-6FD4CFFBF05A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise5.WinContainer", "ITMO.WinFormsCourses.Syatc00M.Lab02.Exercise5\ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise5.WinContainer.csproj", "{9BA99E9A-9402-4CCF-87B5-CD3AB539AE0A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WinForms.Syatc00M.Lab02.Ex5.WinContainer", "ITMO.WinFormsCourses.Syatc00M.Lab02.Exercise5\ITMO.2020.WinForms.Syatc00M.Lab02.Ex5.WinContainer.csproj", "{9BA99E9A-9402-4CCF-87B5-CD3AB539AE0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise6.BiblWorm", "ITMO.WinFormsCourses.Syatc00M.Lab02.Exercise6.BiblWorm\ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise6.BiblWorm.csproj", "{BF0A51D6-8D24-4235-9898-16FBFC47E0A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WinForms.Syatc00M.Lab02.Ex6.BiblWorm", "ITMO.WinFormsCourses.Syatc00M.Lab02.Exercise6.BiblWorm\ITMO.2020.WinForms.Syatc00M.Lab02.Ex6.BiblWorm.csproj", "{BF0A51D6-8D24-4235-9898-16FBFC47E0A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise7.RegistrationForm", "ITMO.WinFormsCourses.Syatc00M.Lab02.Exercise7\ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise7.RegistrationForm.csproj", "{A33507B6-0573-4517-826C-21E6CB920A84}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WinForms.Syatc00M.Lab02.Ex7.RegistrationForm", "ITMO.WinFormsCourses.Syatc00M.Lab02.Exercise7\ITMO.2020.WinForms.Syatc00M.Lab02.Ex7.RegistrationForm.csproj", "{A33507B6-0573-4517-826C-21E6CB920A84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise8.see ex 7", "ITMO.WinFormsCourses.Syatc00M.Lab02.Exercise8\ITMO.WinFormsCourses2020.Syatc00M.Lab02.Exercise8.see ex 7.csproj", "{7177FB32-9332-4D7E-A4BD-5FD5A7D7E22F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WinForms.Syatc00M.Lab02.Ex8.see ex 7", "ITMO.WinFormsCourses.Syatc00M.Lab02.Exercise8\ITMO.2020.WinForms.Syatc00M.Lab02.Ex8.see ex 7.csproj", "{7177FB32-9332-4D7E-A4BD-5FD5A7D7E22F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab03.Exercise1.WinTimer1", "ITMO.WinFormsCourses.Syatc00M.Lab03.Exercise1.WinTimer1\ITMO.WinFormsCourses2020.Syatc00M.Lab03.Exercise1.WinTimer1.csproj", "{D3C2870A-F303-49D1-8F45-2A2AA92C4E1B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WinForms.Syatc00M.Lab03.Ex1.WinTimer1", "ITMO.WinFormsCourses.Syatc00M.Lab03.Exercise1.WinTimer1\ITMO.2020.WinForms.Syatc00M.Lab03.Ex1.WinTimer1.csproj", "{D3C2870A-F303-49D1-8F45-2A2AA92C4E1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab03.Exersise2.WinTimer2", "ITMO.WinFormsCourses.Syatc00M.Lab03.Exersise2\ITMO.WinFormsCourses2020.Syatc00M.Lab03.Exersise2.WinTimer2.csproj", "{6845EC2A-3D52-46D3-90EE-F7F652AEA73A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WinForms.Syatc00M.Lab03.Ex2.WinTimer2", "ITMO.WinFormsCourses.Syatc00M.Lab03.Exersise2\ITMO.2020.WinForms.Syatc00M.Lab03.Ex2.WinTimer2.csproj", "{6845EC2A-3D52-46D3-90EE-F7F652AEA73A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab03.Exersise3.WinButNum", "ITMO.WinFormsCourses.Syatc00M.Lab03.Exersise3.WinButNum\ITMO.WinFormsCourses2020.Syatc00M.Lab03.Exersise3.WinButNum.csproj", "{61A7CA3C-DCEA-4E0E-B936-569E4DF4BC1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WinForms.Syatc00M.Lab03.Ex3.WinButNum", "ITMO.WinFormsCourses.Syatc00M.Lab03.Exersise3.WinButNum\ITMO.2020.WinForms.Syatc00M.Lab03.Ex3.WinButNum.csproj", "{61A7CA3C-DCEA-4E0E-B936-569E4DF4BC1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab04.Exercise1.TestStandardDialog", "ITMO.WinFormsCourses.Syatc00M.Lab04.Exercise1\ITMO.WinFormsCourses2020.Syatc00M.Lab04.Exercise1.TestStandardDialog.csproj", "{2779149C-8624-40B8-91C4-108709B05D0F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WinForms.Syatc00M.Lab04.Ex1.TestStandardDialog", "ITMO.WinFormsCourses.Syatc00M.Lab04.Exercise1\ITMO.2020.WinForms.Syatc00M.Lab04.Ex1.TestStandardDialog.csproj", "{2779149C-8624-40B8-91C4-108709B05D0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinFormsCourses2020.Syatc00M.Lab04.Exercise2.EditPerson", "ITMO.WinFormsCourses.Syatc00M.Lab04.Exercise2\ITMO.WinFormsCourses2020.Syatc00M.Lab04.Exercise2.EditPerson.csproj", "{15F3F240-C59E-4459-8C72-E31B3E3B750B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WinForms.Syatc00M.Lab04.Ex2.EditPerson", "ITMO.WinFormsCourses.Syatc00M.Lab04.Exercise2\ITMO.2020.WinForms.Syatc00M.Lab04.Ex2.EditPerson.csproj", "{15F3F240-C59E-4459-8C72-E31B3E3B750B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinForms.Syatc00M.Lab07.Ex1.WinBackGroundWorker", "ITMO.WinForms.Syatc00M.Lab07.Ex1.WinBackGroundWorker\ITMO.WinForms.Syatc00M.Lab07.Ex1.WinBackGroundWorker.csproj", "{0AD0A6E3-7E0F-41A9-B77C-3F078107B73E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WinForms.Syatc00M.Lab07.Ex1.WinBackGroundWorker", "ITMO.WinForms.Syatc00M.Lab07.Ex1.WinBackGroundWorker\ITMO.2020.WinForms.Syatc00M.Lab07.Ex1.WinBackGroundWorker.csproj", "{0AD0A6E3-7E0F-41A9-B77C-3F078107B73E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WinForms.Syatc00M.Lab04.Ex3.EditPerson", "ITMO.WinFormsCourses.Syatc00M.Lab04.Exercise3\ITMO.2020.WinForms.Syatc00M.Lab04.Ex3.EditPerson.csproj", "{1B605B9E-492D-49A6-9C71-C4F1D4BDF73B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{0AD0A6E3-7E0F-41A9-B77C-3F078107B73E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AD0A6E3-7E0F-41A9-B77C-3F078107B73E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AD0A6E3-7E0F-41A9-B77C-3F078107B73E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B605B9E-492D-49A6-9C71-C4F1D4BDF73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B605B9E-492D-49A6-9C71-C4F1D4BDF73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B605B9E-492D-49A6-9C71-C4F1D4BDF73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B605B9E-492D-49A6-9C71-C4F1D4BDF73B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

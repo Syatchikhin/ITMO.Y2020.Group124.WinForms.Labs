@@ -50,6 +50,7 @@
             this.personsListView.TabIndex = 0;
             this.personsListView.UseCompatibleStateImageBehavior = false;
             this.personsListView.View = System.Windows.Forms.View.Details;
+            this.personsListView.VirtualMode = true;
             // 
             // Имя
             // 
