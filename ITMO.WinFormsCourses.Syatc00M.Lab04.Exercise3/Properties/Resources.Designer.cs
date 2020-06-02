@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ITMO.WinFormsCourses.Syatc00M.Lab04.Exercise2.Properties
+namespace ITMO.WinFormsCourses.Syatc00M.Lab04.Exercise3 //ex2 было
 {
 
 

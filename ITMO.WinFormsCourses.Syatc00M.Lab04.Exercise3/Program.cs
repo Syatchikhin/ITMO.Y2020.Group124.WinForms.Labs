@@ -5,7 +5,7 @@ using System.Net.Cache;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ITMO.WinFormsCourses.Syatc00M.Lab04.Exercise2
+namespace ITMO.WinFormsCourses.Syatc00M.Lab04.Exercise3
 {
     static class Program
     {
@@ -21,21 +21,7 @@ namespace ITMO.WinFormsCourses.Syatc00M.Lab04.Exercise2
         }
     }
 
-    public class Person
-    {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public int Age { get; set; }
-
-
-        public override string ToString()
-        {
-            return LastName + " " + FirstName + "\nВозраст:" + Age + "\n";
-        }
-
-
-
-    }
+   
 
     
 

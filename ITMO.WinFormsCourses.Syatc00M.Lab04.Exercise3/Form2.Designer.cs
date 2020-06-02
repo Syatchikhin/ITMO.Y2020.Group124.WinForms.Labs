@@ -1,4 +1,4 @@
-﻿namespace ITMO.WinFormsCourses.Syatc00M.Lab04.Exercise2
+﻿namespace ITMO.WinFormsCourses.Syatc00M.Lab04.Exercise3
 {
     partial class EditPersonForm
     {

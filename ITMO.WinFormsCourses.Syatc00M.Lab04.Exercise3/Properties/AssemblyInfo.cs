@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("ITMO.WinFormsCourses.Syatc00M.Lab04.Exercise2")]
+[assembly: AssemblyTitle("ITMO.WinFormsCourses.Syatc00M.Lab04.Exercise3")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ITMO.WinFormsCourses.Syatc00M.Lab04.Exercise2")]
+[assembly: AssemblyProduct("ITMO.WinFormsCourses.Syatc00M.Lab04.Exercise3")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
