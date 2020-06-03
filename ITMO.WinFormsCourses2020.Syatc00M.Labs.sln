@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WF.SyatcM.ExamTas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WF.SyatcM.L05.E1", "ITMO.2020.WF.SyatcM.L05.E1\ITMO.2020.WF.SyatcM.L05.E1\ITMO.2020.WF.SyatcM.L05.E1.csproj", "{A67CEA1A-844F-4549-8A5B-AB8BC874D010}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.WF.SyatcM.L05.E2.PDF Reader", "ITMO.2020.WF.SyatcM.L05.E2\ITMO.2020.WF.SyatcM.L05.E2.PDF Reader\ITMO.2020.WF.SyatcM.L05.E2.PDF Reader.csproj", "{DED63DBA-F5EA-47AA-B26F-9B6969FC548D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{A67CEA1A-844F-4549-8A5B-AB8BC874D010}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A67CEA1A-844F-4549-8A5B-AB8BC874D010}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A67CEA1A-844F-4549-8A5B-AB8BC874D010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED63DBA-F5EA-47AA-B26F-9B6969FC548D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED63DBA-F5EA-47AA-B26F-9B6969FC548D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED63DBA-F5EA-47AA-B26F-9B6969FC548D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED63DBA-F5EA-47AA-B26F-9B6969FC548D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

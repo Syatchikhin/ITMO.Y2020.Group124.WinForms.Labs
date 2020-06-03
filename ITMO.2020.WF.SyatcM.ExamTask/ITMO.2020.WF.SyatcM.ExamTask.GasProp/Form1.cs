@@ -240,5 +240,22 @@ namespace ITMO._2020.WF.SyatcM.ExamTask.GasProp
                 MessageBox.Show("Нет данных для сохранения", "Предупреждение", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void содержаниеToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            contentForm contentForm1 = new contentForm();
+            contentForm1.Show();
+        }
+
+        private void выходToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void обавтореToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            authorForm AuthorForm1 = new authorForm();
+            AuthorForm1.Show();
+        }
     }
 }
