@@ -26,5 +26,10 @@ namespace ITMO._2020.WF.SyatcM.ExamTask.GasProp
         {
 
         }
+
+        private void linkLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("http://www.maximusweb.ru");
+        }
     }
 }

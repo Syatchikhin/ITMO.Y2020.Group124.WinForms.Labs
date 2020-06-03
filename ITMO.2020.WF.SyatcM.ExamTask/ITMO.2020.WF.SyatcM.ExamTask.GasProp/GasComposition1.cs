@@ -1,7 +1,10 @@
 using System;
 using Excel = Microsoft.Office.Interop.Excel;
 
-//****Программа для расчета свойств газов, © 2020 Сятчихин М.****
+//******************************************************************
+// Программа для расчета свойств газов, © 2020 Сятчихин М.
+// The program for gas properties calculation, © 2020 Syatchikhin M.
+// *****************************************************************
 
 namespace ITMO._2020.WF.SyatcM.ExamTask.GasProp
 {
@@ -16,19 +19,7 @@ namespace ITMO._2020.WF.SyatcM.ExamTask.GasProp
         public double[] componentWeight;
 
         public double mixtureDencity;
-        //public double mixtureDencity
-        //{
-        //    get { return mixtureDencity; }
-        //    set { mixtureDencity = value; }
-        //}
-
         public double mixtureR;
-        //public double mixtureR
-        //{
-        //    get { return mixtureR; }
-        //    set { mixtureR = value; }
-        //}
-
 
 
         public static GasComposition ReadExcelFile(ref string path, ref GasComposition created)
